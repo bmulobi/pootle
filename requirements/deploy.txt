@@ -4,9 +4,9 @@
 
 # Database
 # MySQL
--r _db_mysql.txt
+#-r _db_mysql.txt
 # Uncomment for PostgreSQL
-# -r _db_postgresql.txt
+-r _db_postgresql.txt
 
 # Logging
 raven>=5.31.0,<=6.0.0
